@@ -75,6 +75,8 @@ else
 ?>
         <script src="vistas/js/ejercicio_3.js"></script>
         <script src="vistas/js/ejercicio10.js"></script>
+        <script src="vistas/js/ejercicio_10.js"></script>
+        <script src="vistas/js/ejercicio_11.js"></script>
 </body>
 
 </html>

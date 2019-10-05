@@ -2,7 +2,7 @@
     <!-- Content Header (Page header) -->
     <section class="content-header">
       <h1>
-        Ejercicio 2 Bi
+      Matriz Nula
       </h1>
       
     </section>
@@ -19,10 +19,15 @@
          
         </div>
         <div class="box-body">
-          Start creating your amazing application!
+        <button id="btnComprobar" class="btn btn-danger">comprobar si la matriz es nula</button>
+        <button id="btnMostrarA" class="btn btn-success">Mostrar Matriz</button>
+
         </div>
-        <!-- /.box-body -->
+        <!-- /.
+    <table id="tabla2"></table>
+    <table id="tabla2"></table>box-body -->
        
+    <table id="tabla2"></table>
         <!-- /.box-footer-->
       </div>
       <!-- /.box -->
